@@ -1,1 +1,1 @@
-# A2SV-compitaiton
+# This is a repo where I store my leetcode solutions
