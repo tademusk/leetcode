@@ -1,0 +1,10 @@
+class Solution:
+    def selfDividingNumbers(self, left: int, right: int) -> List[int]:
+        res = []
+        for x in range(left, right+1):
+            for y in str(x):
+                if int(y) == 0 or x % int(y) != 0:
+                    break
+            else:
+                res.append(x)
+        return res
