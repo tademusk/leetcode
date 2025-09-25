@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/tademusk/leetcode/tree/master/0139-word-break) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/tademusk/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/tademusk/leetcode/tree/master/1603-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
@@ -30,6 +31,7 @@
 | ------- |
 | [0139-word-break](https://github.com/tademusk/leetcode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/tademusk/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/tademusk/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0677-map-sum-pairs](https://github.com/tademusk/leetcode/tree/master/0677-map-sum-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/tademusk/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Counting
@@ -49,6 +51,7 @@
 | ------- |
 | [0139-word-break](https://github.com/tademusk/leetcode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/tademusk/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/tademusk/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0677-map-sum-pairs](https://github.com/tademusk/leetcode/tree/master/0677-map-sum-pairs) |
 ## Memoization
 |  |
@@ -59,4 +62,8 @@
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/tademusk/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0677-map-sum-pairs](https://github.com/tademusk/leetcode/tree/master/0677-map-sum-pairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/tademusk/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 <!---LeetCode Topics End-->
