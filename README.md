@@ -12,6 +12,7 @@
 | [0282-expression-add-operators](https://github.com/tademusk/leetcode/tree/master/0282-expression-add-operators) |
 | [0677-map-sum-pairs](https://github.com/tademusk/leetcode/tree/master/0677-map-sum-pairs) |
 | [0808-number-of-matching-subsequences](https://github.com/tademusk/leetcode/tree/master/0808-number-of-matching-subsequences) |
+| [1397-search-suggestions-system](https://github.com/tademusk/leetcode/tree/master/1397-search-suggestions-system) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/tademusk/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Backtracking
 |  |
@@ -24,6 +25,7 @@
 | [0139-word-break](https://github.com/tademusk/leetcode/tree/master/0139-word-break) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/tademusk/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0808-number-of-matching-subsequences](https://github.com/tademusk/leetcode/tree/master/0808-number-of-matching-subsequences) |
+| [1397-search-suggestions-system](https://github.com/tademusk/leetcode/tree/master/1397-search-suggestions-system) |
 | [1603-running-sum-of-1d-array](https://github.com/tademusk/leetcode/tree/master/1603-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
@@ -60,6 +62,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/tademusk/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0677-map-sum-pairs](https://github.com/tademusk/leetcode/tree/master/0677-map-sum-pairs) |
 | [0808-number-of-matching-subsequences](https://github.com/tademusk/leetcode/tree/master/0808-number-of-matching-subsequences) |
+| [1397-search-suggestions-system](https://github.com/tademusk/leetcode/tree/master/1397-search-suggestions-system) |
 ## Memoization
 |  |
 | ------- |
@@ -78,12 +81,18 @@
 |  |
 | ------- |
 | [0808-number-of-matching-subsequences](https://github.com/tademusk/leetcode/tree/master/0808-number-of-matching-subsequences) |
+| [1397-search-suggestions-system](https://github.com/tademusk/leetcode/tree/master/1397-search-suggestions-system) |
 ## Sorting
 |  |
 | ------- |
 | [0808-number-of-matching-subsequences](https://github.com/tademusk/leetcode/tree/master/0808-number-of-matching-subsequences) |
+| [1397-search-suggestions-system](https://github.com/tademusk/leetcode/tree/master/1397-search-suggestions-system) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/tademusk/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1397-search-suggestions-system](https://github.com/tademusk/leetcode/tree/master/1397-search-suggestions-system) |
 <!---LeetCode Topics End-->
