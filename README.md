@@ -12,6 +12,7 @@
 | [0282-expression-add-operators](https://github.com/tademusk/leetcode/tree/master/0282-expression-add-operators) |
 | [0648-replace-words](https://github.com/tademusk/leetcode/tree/master/0648-replace-words) |
 | [0677-map-sum-pairs](https://github.com/tademusk/leetcode/tree/master/0677-map-sum-pairs) |
+| [0720-longest-word-in-dictionary](https://github.com/tademusk/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0808-number-of-matching-subsequences](https://github.com/tademusk/leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [1397-search-suggestions-system](https://github.com/tademusk/leetcode/tree/master/1397-search-suggestions-system) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/tademusk/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -26,6 +27,7 @@
 | [0139-word-break](https://github.com/tademusk/leetcode/tree/master/0139-word-break) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/tademusk/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0648-replace-words](https://github.com/tademusk/leetcode/tree/master/0648-replace-words) |
+| [0720-longest-word-in-dictionary](https://github.com/tademusk/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0808-number-of-matching-subsequences](https://github.com/tademusk/leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [1397-search-suggestions-system](https://github.com/tademusk/leetcode/tree/master/1397-search-suggestions-system) |
 | [1603-running-sum-of-1d-array](https://github.com/tademusk/leetcode/tree/master/1603-running-sum-of-1d-array) |
@@ -41,6 +43,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/tademusk/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0648-replace-words](https://github.com/tademusk/leetcode/tree/master/0648-replace-words) |
 | [0677-map-sum-pairs](https://github.com/tademusk/leetcode/tree/master/0677-map-sum-pairs) |
+| [0720-longest-word-in-dictionary](https://github.com/tademusk/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0808-number-of-matching-subsequences](https://github.com/tademusk/leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/tademusk/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Counting
@@ -65,6 +68,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/tademusk/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0648-replace-words](https://github.com/tademusk/leetcode/tree/master/0648-replace-words) |
 | [0677-map-sum-pairs](https://github.com/tademusk/leetcode/tree/master/0677-map-sum-pairs) |
+| [0720-longest-word-in-dictionary](https://github.com/tademusk/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0808-number-of-matching-subsequences](https://github.com/tademusk/leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [1397-search-suggestions-system](https://github.com/tademusk/leetcode/tree/master/1397-search-suggestions-system) |
 ## Memoization
@@ -89,6 +93,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0720-longest-word-in-dictionary](https://github.com/tademusk/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0808-number-of-matching-subsequences](https://github.com/tademusk/leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [1397-search-suggestions-system](https://github.com/tademusk/leetcode/tree/master/1397-search-suggestions-system) |
 ## Depth-First Search
