@@ -16,6 +16,7 @@
 | [0808-number-of-matching-subsequences](https://github.com/tademusk/leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [1397-search-suggestions-system](https://github.com/tademusk/leetcode/tree/master/1397-search-suggestions-system) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/tademusk/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/tademusk/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -31,6 +32,7 @@
 | [0808-number-of-matching-subsequences](https://github.com/tademusk/leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [1397-search-suggestions-system](https://github.com/tademusk/leetcode/tree/master/1397-search-suggestions-system) |
 | [1603-running-sum-of-1d-array](https://github.com/tademusk/leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/tademusk/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -104,4 +106,12 @@
 |  |
 | ------- |
 | [1397-search-suggestions-system](https://github.com/tademusk/leetcode/tree/master/1397-search-suggestions-system) |
+## Graph
+|  |
+| ------- |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/tademusk/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
+## Shortest Path
+|  |
+| ------- |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/tademusk/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->
